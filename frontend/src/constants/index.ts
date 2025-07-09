@@ -1,0 +1,1 @@
+export const BookGenres = ["fiction", "non-fiction", "novel", "sci-fi"];
